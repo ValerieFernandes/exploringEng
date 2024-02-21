@@ -9,7 +9,7 @@ const Navbar = ({ activeTab, setActiveTab }) => {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <h1 className="logo">Exploring Engineering</h1>
+        <h1 className="logo">Exploring Computer Science</h1>
       </div>
       <ul className="nav-links">
         <li

@@ -1,12 +1,12 @@
 import React from 'react';
 import './Home.css';
-import logo from '../../assets/wie_logo.png';
+import logo from '../../assets/WiCS_Logo.png';
 const Home = () => {
   return (
     <div className="home-content">
       <div className="logo-container">
       </div>
-      <h2 className="welcome-text">Welcome to the Software Room!</h2>
+      <h2 className="welcome-text">Welcome to Web Development!</h2>
       <img src={logo} className="img"/>
       </div>
   );
